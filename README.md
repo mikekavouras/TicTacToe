@@ -1,2 +1,9 @@
-# TicTacToe
-TicTacToe inspired by South Park
+
+
+South Park inspired Tic Tac Toe
+
+```
+__|__|__
+__|__|__
+  |  |
+```
