@@ -1,4 +1,4 @@
-![satan](http://www.weirdspace.dk/SouthPark/Graphics/Satan.gif)
+<img src="https://github.com/mikekavouras/TicTacToe/blob/master/images/IMG_3671.jpg?raw=true" width="300" />
 
 .  
 .  
